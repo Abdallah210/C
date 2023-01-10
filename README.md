@@ -32,7 +32,7 @@ high-level :
 
 ### 3. GNU Compiler Collection (GCC) : 
 
-![command prompt](images/GCC.png)
+![GCC](images/GCC.png)
 
 The GNU compiler Collection convert the C code to the machine code
 
