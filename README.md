@@ -1,6 +1,6 @@
 # C
 
-### About the C programming language :
+### 1. About the C programming language :
 
 The C programming language :
 - was created in 1972 by Dennis Ritchie
@@ -17,7 +17,7 @@ The C programming language :
 - was designed to be compiled to provide low-level access to memory and language constructs
 
 
-### Difference between high-level & low-level language :
+### 2. Difference between high-level & low-level language :
 
 low-level :
 - advantages : efficent - fast - less memory -machine architect 
@@ -30,15 +30,18 @@ high-level :
 - e.g : Javascript, Java, Python, C#, PHP...
 
 
-### GNU Compiler Collection (GCC) : 
+### 3. GNU Compiler Collection (GCC) : 
+
+![command prompt](images/GCC.png)
+
 The GNU compiler Collection convert the C code to the machine code
 
-##### How to compile a C file ?
+#### How to compile a C file ?
 - 1 - Open command prompt 
 - 2 - change your actual directory to the derectory that contains the C file 
 - 3 - To compile a file : "gcc NameOfFila.c -o nameChosenByYou"
 - 4 - To run a compiled file : "nameChosenByYou.exe" 
-- 
+
 ![command prompt](images/commandPrompt1.png)
 
 
