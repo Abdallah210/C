@@ -3,6 +3,8 @@
 ### About the C programming language :
 
 The C programming language :
+- was created in 1972 by Dennis Ritchie
+- is a low-level programming
 - allows to manipulate data at processor level (without resorting to the assembler)
 - does not manage memory (crumb collection)
 - does not have a statement dealing with compound objects such as strings, structures, etc.
