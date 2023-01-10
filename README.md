@@ -31,4 +31,20 @@ high-level :
 
 
 ### GNU Compiler Collection (GCC) : 
+The GNU compiler Collection convert the C code to the machine code
+
+##### How to compile a C file ?
+- 1 - Open command prompt 
+- 2 - change your actual directory to the derectory that contains the C file 
+- 3 - To compile a file : "gcc NameOfFila.c -o nameChosenByYou"
+- 4 - To run a compiled file : "nameChosenByYou.exe" 
+- 
+![command prompt](images/commandPrompt1.png)
+
+
+
+
+
+
+
 
