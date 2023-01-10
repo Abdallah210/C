@@ -9,7 +9,7 @@ allows the use of the printf() function
 
 int main ( void ) {
     printf ("Hello World !\n") ; 
-    return 0 ;                 
+    return 0 ;   // if there is a error in your program so it will be returned 1 instaed of 0      
 }                               
 
 
