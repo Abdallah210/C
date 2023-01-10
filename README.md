@@ -32,7 +32,7 @@ high-level :
 
 ### 3. GNU Compiler Collection (GCC) : 
 
-![GCC](images/GCC.png)
+![GCC][images/GCC.png]
 
 The GNU compiler Collection convert the C code to the machine code
 
@@ -51,3 +51,6 @@ The GNU compiler Collection convert the C code to the machine code
 
 
 
+
+
+[images/GCC.png]: images/GCC.png
