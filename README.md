@@ -45,12 +45,6 @@ The GNU compiler Collection convert the C code to the machine code
 ![command prompt](images/commandPrompt1.png)
 
 
-
-
-
-
-
-
-
-
-[images/GCC.png]: images/GCC.png
+### 4. variables & Data type :
+ 
+- the typing is not dynamic, it is explicit (should choose the type when we declare a variable)
